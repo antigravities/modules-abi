@@ -1,6 +1,6 @@
 {
 	"name": "@antigravities/modules-abi",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Get ABI and version for common node runtimes (node, NW.js, Electron)",
 	"main": "dist/src/index.cjs",
 	"type": "module",
